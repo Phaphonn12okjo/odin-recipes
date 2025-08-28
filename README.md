@@ -1,7 +1,22 @@
 # odin-recipes
 
-this is my first project and i dont know whats comming next so i looking forward to do assignment from the odin project
+This is my first project from The Odin Project
+. The assignment was to create a simple recipe website using only HTML.
 
-oh i just read the curriculum again im going to make recipe website by only using html, now i have a bigger picture now so far so good 
+About the Project
 
-ok im just finish my assignment and this is better than i thought, i put a lot of thing other than in assignment to test and play with my web and its fun
+At first, I wasn’t sure what to expect, but after going through the curriculum I got a clearer picture of the requirements. The project turned out to be more enjoyable than I thought — I even added extra elements beyond the assignment just to experiment and have fun.
+
+What I Learned
+
+Structuring a webpage with semantic HTML
+
+Creating multiple pages and linking them together
+
+Organizing content for readability
+
+Exploring creativity by going beyond the minimum requirements
+
+Reflection
+
+This project is just the beginning, and I’m looking forward to the upcoming assignments in The Odin Project. Building this recipe site gave me a solid foundation and confidence to continue learning.
